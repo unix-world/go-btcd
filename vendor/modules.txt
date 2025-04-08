@@ -1,0 +1,106 @@
+# github.com/aead/siphash v1.0.1
+## explicit
+github.com/aead/siphash
+# github.com/btcsuite/btcd/btcec/v2 v2.3.4
+## explicit; go 1.17
+github.com/btcsuite/btcd/btcec/v2
+github.com/btcsuite/btcd/btcec/v2/ecdsa
+github.com/btcsuite/btcd/btcec/v2/schnorr
+# github.com/btcsuite/btcd/btcutil v1.1.5
+## explicit; go 1.16
+github.com/btcsuite/btcd/btcutil
+github.com/btcsuite/btcd/btcutil/base58
+github.com/btcsuite/btcd/btcutil/bech32
+github.com/btcsuite/btcd/btcutil/bloom
+github.com/btcsuite/btcd/btcutil/gcs
+github.com/btcsuite/btcd/btcutil/gcs/builder
+github.com/btcsuite/btcd/btcutil/hdkeychain
+# github.com/btcsuite/btcd/chaincfg/chainhash v1.1.0
+## explicit; go 1.17
+github.com/btcsuite/btcd/chaincfg/chainhash
+# github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
+## explicit
+github.com/btcsuite/btclog
+# github.com/btcsuite/go-socks v0.0.0-20170105172521-4720035b7bfd
+## explicit
+github.com/btcsuite/go-socks/socks
+# github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792
+## explicit
+github.com/btcsuite/websocket
+# github.com/btcsuite/winsvc v1.0.0
+## explicit
+github.com/btcsuite/winsvc/eventlog
+github.com/btcsuite/winsvc/mgr
+github.com/btcsuite/winsvc/registry
+github.com/btcsuite/winsvc/svc
+github.com/btcsuite/winsvc/winapi
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/decred/dcrd/crypto/blake256 v1.0.0
+## explicit; go 1.11
+github.com/decred/dcrd/crypto/blake256
+# github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1
+## explicit; go 1.16
+github.com/decred/dcrd/dcrec/secp256k1/v4
+github.com/decred/dcrd/dcrec/secp256k1/v4/ecdsa
+github.com/decred/dcrd/dcrec/secp256k1/v4/schnorr
+# github.com/decred/dcrd/lru v1.0.0
+## explicit; go 1.11
+github.com/decred/dcrd/lru
+# github.com/golang/snappy v0.0.4
+## explicit
+github.com/golang/snappy
+# github.com/gorilla/websocket v1.5.0
+## explicit; go 1.12
+github.com/gorilla/websocket
+# github.com/jessevdk/go-flags v1.4.0
+## explicit
+github.com/jessevdk/go-flags
+# github.com/jrick/logrotate v1.0.0
+## explicit
+github.com/jrick/logrotate/rotator
+# github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23
+## explicit
+github.com/kkdai/bstream
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/objx v0.5.0
+## explicit; go 1.12
+github.com/stretchr/objx
+# github.com/stretchr/testify v1.8.4
+## explicit; go 1.20
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/mock
+github.com/stretchr/testify/require
+# github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
+## explicit; go 1.14
+github.com/syndtr/goleveldb/leveldb
+github.com/syndtr/goleveldb/leveldb/cache
+github.com/syndtr/goleveldb/leveldb/comparer
+github.com/syndtr/goleveldb/leveldb/errors
+github.com/syndtr/goleveldb/leveldb/filter
+github.com/syndtr/goleveldb/leveldb/iterator
+github.com/syndtr/goleveldb/leveldb/journal
+github.com/syndtr/goleveldb/leveldb/memdb
+github.com/syndtr/goleveldb/leveldb/opt
+github.com/syndtr/goleveldb/leveldb/storage
+github.com/syndtr/goleveldb/leveldb/table
+github.com/syndtr/goleveldb/leveldb/util
+# golang.org/x/crypto v0.22.0
+## explicit; go 1.18
+golang.org/x/crypto/ripemd160
+golang.org/x/crypto/sha3
+# golang.org/x/net v0.24.0
+## explicit; go 1.18
+# golang.org/x/sys v0.19.0
+## explicit; go 1.18
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
+# pgregory.net/rapid v1.2.0
+## explicit; go 1.18
+pgregory.net/rapid
